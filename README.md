@@ -4,6 +4,8 @@
 
 # [My domain powered by surge.sh](https://m-j.surge.sh)
 
+But I might delete your shorten url if I want your number. sorry😥
+
 # 🔗 GitHub Pages URL Shortener
 
 This is a minimal URL shortener that can be entirely hosted on GitHub pages. It
